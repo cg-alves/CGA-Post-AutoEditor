@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CGA Post Auto Editor 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-27 16:24+0100\n"
+"PO-Revision-Date: 2018-06-27 16:24+0100\n"
+"Last-Translator: Carlos Alves <carlos.alves@disroot.org>\n"
+"Language-Team: Carlos Alves <carlos.alves@disroot.org>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../post-autoedit.php:26 ../post-autoedit.php:31 ../post-autoedit.php:52
+msgid "CGA Post Auto Editor"
+msgstr "Editor de Artigos Automático CGA"
+
+#: ../post-autoedit.php:27
+msgid "Plugin for automatically editing post titles."
+msgstr "Plugin para editar o títulos de artigos automaticamente."
+
+#: ../post-autoedit.php:31
+msgid "Post Auto Editor"
+msgstr "Editor Automático de Artigos"
+
+#: ../post-autoedit.php:32 ../post-autoedit.php:39
+msgid "Post Type Chooser"
+msgstr "Seleccionador de Tipo de Artigos"
+
+#: ../post-autoedit.php:33
+msgid "Editing Options"
+msgstr "Opções de Edição"
+
+#: ../post-autoedit.php:34 ../post-autoedit.php:37
+msgid "Post Backup Import"
+msgstr "Importação de Cópia de Segurança"
+
+#: ../post-autoedit.php:35 ../post-autoedit.php:36
+msgid "Post Backup Download"
+msgstr "Descarga de Cópia de Segurança"
+
+#: ../post-autoedit.php:38 ../post-autoedit.php:66
+msgid "Changes Done"
+msgstr "Alterações Concluídas"
+
+#: ../post-autoedit.php:40
+msgid "Manual Search"
+msgstr "Pesquisa Manual"
+
+#: ../post-autoedit.php:55
+msgid "Import Posts"
+msgstr "Importar Artigos"
+
+#: ../post-autoedit.php:56
+msgid "Export Posts"
+msgstr "Exportar Artigos"
+
+#: ../post-autoedit.php:57 ../post-autoedit.php:345
+msgid "Edit Posts"
+msgstr "Editar Artigos"
+
+#: ../post-autoedit.php:67 ../post-autoedit.php:109 ../post-autoedit.php:199
+#: ../post-autoedit.php:260 ../post-autoedit.php:287 ../post-autoedit.php:323
+msgid "Return to the Main Menu"
+msgstr "Regressar ao Menu Principal"
+
+#: ../post-autoedit.php:70
+msgid "Your changes have been committed to the database."
+msgstr "As suas alterações foram gravadas na base de dados."
+
+#: ../post-autoedit.php:93 ../post-autoedit.php:113
+msgid "First letter of the post uppercase"
+msgstr "Primeira letra do artigo em maiúsculo"
+
+#: ../post-autoedit.php:96 ../post-autoedit.php:114
+msgid "First Letter Of Each Word Uppercase"
+msgstr "Primeira Letra De Cada Palavra Em Maiúsculo"
+
+#: ../post-autoedit.php:99 ../post-autoedit.php:115
+msgid "ALL UPPERCASE"
+msgstr "TUDO EM MAISÚSCULO"
+
+#: ../post-autoedit.php:102 ../post-autoedit.php:116
+msgid "all lowercase"
+msgstr "tudo em minúsculo"
+
+#: ../post-autoedit.php:108
+msgid "Choose your edit"
+msgstr "Escolha a alteração"
+
+#: ../post-autoedit.php:198
+msgid "Choose the post types you wish to edit"
+msgstr "Escolha os tipos de artigos que deseja editar"
+
+#: ../post-autoedit.php:205
+msgid "Post Type"
+msgstr "Tipo de artigo"
+
+#: ../post-autoedit.php:206
+msgid "Selection"
+msgstr "Selecção"
+
+#: ../post-autoedit.php:224
+msgid "Select Post Types"
+msgstr "Escolher Tipos de Artigo"
+
+#: ../post-autoedit.php:229
+msgid "OR"
+msgstr "OU"
+
+#: ../post-autoedit.php:233
+msgid "Manual Search by Post ID (Advanced)"
+msgstr "Pesquisa Manual do ID de Artigos (Avançado)"
+
+#: ../post-autoedit.php:259
+msgid "Save your backup to a safe location"
+msgstr "Guarde a sua cópia de segurança num local seguro"
+
+#: ../post-autoedit.php:264
+msgid "Download Backup"
+msgstr "Descarregar cópia de segurança"
+
+#: ../post-autoedit.php:286
+msgid "Select plugin backup to upload"
+msgstr "Escolha a cópia de segurança para enviar"
+
+#: ../post-autoedit.php:292
+msgid "Upload File"
+msgstr "Enviar Ficheiro"
+
+#: ../post-autoedit.php:322
+msgid "Manual ID Search"
+msgstr "Pesquisa Manual de ID"
+
+#: ../post-autoedit.php:327
+msgid "Please insert the IDs of the posts to edit bellow."
+msgstr "Por favor insira os IDs dos artigos a editar na caixa de texto."
+
+#: ../post-autoedit.php:331
+msgid "Posts to edit"
+msgstr "Artigos a editar"
+
+#: ../post-autoedit.php:338
+msgid ""
+"Insert the IDs of the posts that you wish to edit separated by commas.&#10;"
+"&#10;Example:&#10;1,2,3"
+msgstr ""
+"Insira os IDs dos artigos que deseja editar separados por vírgulas.&#10;&#10;"
+"Exemplo:&#10;1,2,3"
+
+#~ msgid "Install Plugins"
+#~ msgstr "Instalar os Plugins"
+
+#~ msgid "CGA Plugin Helper"
+#~ msgstr "Auxiliar de Plugins CGA"
+
+#~ msgid "Please choose your desired installation method."
+#~ msgstr "Por favor escolha o método pelo qual deseja instalar os plugins."
+
+#~ msgid "Curated Plugin List"
+#~ msgstr "Lista Curada de Plugins"
+
+#~ msgid "Manual Search (Advanced)"
+#~ msgstr "Pesquisa Manual (Avançado)"
+
+#~ msgid ""
+#~ "Pragmatica's curated plugin list gives you easy access to several trusted "
+#~ "plugins. Simply choose which plugins you want and their installation and "
+#~ "activation will occur without any further action required. With this "
+#~ "list, you can be sure that the plugins you're installing are trustworthy."
+#~ msgstr ""
+#~ "A lista curada de plugins da Pragmática coloca vários plugins nos quais "
+#~ "confiamos ao seu dispor, num local conveniente. Basta escolher os plugins "
+#~ "que deseja instalar e o processo será concluído sem intervenção "
+#~ "necessária do utilizador. Com esta lista pode ter a plena confiança de "
+#~ "que os plugins que está a instalar são seguros."
+
+#~ msgid ""
+#~ "This search option is for more advanced users who want to automate the "
+#~ "installation and deployment process. It allows you to name the plugins "
+#~ "you want, and install and activate them in a single click."
+#~ msgstr ""
+#~ "Esta opção de pesquisa dirige-se a utilizadores mais avançados e permite "
+#~ "colocar o nome de todos os plugins que pretende instalar, e que estes "
+#~ "sejam instalados e activos num só click."
+
+#~ msgid "List"
+#~ msgstr "Lista"
+
+#~ msgid "Search"
+#~ msgstr "Pesquisa"
+
+#~ msgid "Export Active Plugins"
+#~ msgstr "Exportar Plugins Activos"
+
+#~ msgid "Active Plugin Export"
+#~ msgstr "Exportação de Plugins Activos"
+
+#~ msgid "Warning!"
+#~ msgstr "Atenção!"
+
+#~ msgid ""
+#~ "It's advised that you deactivate any custom plugins (those that don't "
+#~ "come from the Wordpress store) before you export your active plugin list, "
+#~ "as those may result in you importing unwanted plugins."
+#~ msgstr ""
+#~ "É aconselhada a desactivação de \"custom plugins\" (plugins não "
+#~ "proveninentes da loja do Wordpress) antes de exportar, pois estes podem "
+#~ "resultar na importação de plugins não desejados."
+
+#~ msgid ""
+#~ "You can import plugins by simply copying the list in the text box bellow, "
+#~ "and then pasting it in the 'Search' option on this plugin's homepage."
+#~ msgstr ""
+#~ "A importação é feita simplesmente copiando a lista escrita na caixa de "
+#~ "texto abaixo, e colando o texto na opção de \"Pesquisa\" na página "
+#~ "principal deste plugin."
+
+#~ msgid "Plugin List"
+#~ msgstr "Lista de Plugins"
+
+#~ msgid "Return to the Plugin's Homepage"
+#~ msgstr "Regressar à Página Principal do Plugin"
+
+#~ msgid "Please select the plugins you wish to install."
+#~ msgstr "Por favor seleccione os plugins que deseja instalar."
+
+#~ msgid "Search Engine Optimization"
+#~ msgstr "Optimização para Motores de Busca (SEO)"
+
+#~ msgid "Plugin Name"
+#~ msgstr "Nome do Plugin"
+
+#~ msgid "Design"
+#~ msgstr "Design"
+
+#~ msgid "Marketing"
+#~ msgstr "Marketing"
+
+#~ msgid "Management"
+#~ msgstr "Gestão"
+
+#~ msgid "Analytics"
+#~ msgstr "Analítica"
+
+#~ msgid "Social"
+#~ msgstr "Redes Sociais"
+
+#~ msgid "Performance"
+#~ msgstr "Desempenho"
+
+#~ msgid "Security"
+#~ msgstr "Segurança"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Miscelânea"
+
+#~ msgid "Installing the selected plugins."
+#~ msgstr "A instalar os plugins seleccionados."
+
+#~ msgid "Activating the installed plugins."
+#~ msgstr "A activar os plugins instalados."
+
+#~ msgid ""
+#~ "The function has ended. If your plugins have installed correctly, you may "
+#~ "delete this plugin."
+#~ msgstr ""
+#~ "A função terminou. Se os plugins foram instalados com sucesso, pode "
+#~ "remover este plugin."
+
+#~ msgid "Return to the Main admin page"
+#~ msgstr "Regressar à página principal de Administração"
+
+#~ msgid "Return to the Plugins page"
+#~ msgstr "Regressar à página de Plugins"
+
+#~ msgid "Installing plugin:"
+#~ msgstr "A instalar o plugin:"
+
+#~ msgid "Activating plugin:"
+#~ msgstr "A activar o plugin:"
+
+#~ msgid "Plugin Search"
+#~ msgstr "Pesquisa de Plugins"
+
+#~ msgid ""
+#~ "Please insert the name of the plugins you wish to install in the format "
+#~ "bellow."
+#~ msgstr ""
+#~ "Por favor introduza os nomes dos plugins que deseja instalar, no formato "
+#~ "indicado."
+
+#~ msgid "Plugins to Install"
+#~ msgstr "Plugins a Instalar"
+
+# It's very important to have '&#10;' as that will print a line break, which the plugin requires to import.
+#~ msgid ""
+#~ "Insert the name of the plugins that you wish to install separated by "
+#~ "either apostrophes or quotation marks and Return.&#10;&#10;Example:&#10;"
+#~ "\"yoast\"&#10;\"beaver builder\"&#10;\"tinymce\""
+#~ msgstr ""
+#~ "Introduza os nomes dos plugins que pretende instalar entre apóstrofos ou "
+#~ "aspas e separados por Enter. &#10;&#10;Exemplo:&#10;\"yoast\"&#10;"
+#~ "\"beaver builder\"&#10;\"tinymce\""
+
+#~ msgid ""
+#~ "This plugin will assist you in the installation of plugins, allowing you "
+#~ "to choose from a curated list, manually search for plugins and export any "
+#~ "active plugins into a text list."
+#~ msgstr ""
+#~ "Este plugin irá auxilia-lo na instalação de plugins, permitindo que "
+#~ "escolha de uma lista curada, pesquise manualmente, ou que exporte "
+#~ "quaisquer plugins activos para uma lista."
+
+#~ msgid "Plugin Helper"
+#~ msgstr "Auxiliar de Plugins"
+
+#~ msgid "Installer"
+#~ msgstr "Instalador de Plugins"
+
+#~ msgid "Plugin Export"
+#~ msgstr "Exportação de Plugins"
+
+#~ msgid "Pragmatica Plugin Helper"
+#~ msgstr "Auxiliar de Plugins Pragmática"
+
+#~ msgid "Skipping plugin:"
+#~ msgstr "A saltar o plugin:"
+
+#~ msgid "Return to the Plugin's homepage"
+#~ msgstr "Regressar à Página Principal do Plugin"
